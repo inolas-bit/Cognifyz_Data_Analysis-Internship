@@ -55,7 +55,9 @@ The internship focused on applying **data analytics techniques** to solve **real
 ## 📬 Contact
 
 Saloni Kumari Singh
-🔗 LinkedIn: [\[your LinkedIn here]](https://www.linkedin.com/in/saloni-singh1329/)
-🐙 GitHub: [https://github.com/inolas-bit](https://github.com/inolas-bit)
+
+🔗 LinkedIn: (https://www.linkedin.com/in/saloni-singh1329/)
+
+🐙 GitHub: (https://github.com/inolas-bit)
 
 ---
